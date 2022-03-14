@@ -53,8 +53,8 @@
 📆 2017 - 2019\
 📍 **Universidade Federal de Pernambuco** - Recife, Brasil
 
-- 📖 **Mestrado em Estatística**\
-📆 2017 - 2019\
+- 📖 **Doutorado em Estatística**\
+📆 2020 - 2024\(em andamento)
 📍 **Universidade de São Paulo** - Piracicaba, Brasil
 
 ## Experience

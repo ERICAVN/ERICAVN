@@ -59,8 +59,6 @@
 
 ## Experience
 
-  
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Professora de ensino superior**\
 📆 Agosto/2014 - Julho/2017\
